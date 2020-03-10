@@ -1,0 +1,8 @@
+{
+  "name": "node-typescript-starter-template",
+  "version": "1.0.0",
+  "description": "A typescript-based node project starter template",
+  "main": "index.js",
+  "author": "Waheed Afolabi <waheed.remote247@gmail.com>",
+  "license": "MIT"
+}
