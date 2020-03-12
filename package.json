@@ -12,8 +12,11 @@
   },
   "devDependencies": {
     "@types/node": "^13.9.0",
+    "@typescript-eslint/eslint-plugin": "^2.23.0",
+    "@typescript-eslint/parser": "^2.23.0",
+    "eslint": "^6.8.0",
     "nodemon": "^2.0.2",
-    "rimraf": "^3.0.2",
+    "rimraf": "^3.0.2",touch
     "ts-node": "^8.6.2",
     "typescript": "^3.8.3"
   }
