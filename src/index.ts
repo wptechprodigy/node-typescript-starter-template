@@ -1,5 +1,5 @@
-console.log('Hello Node + Typescript');
+const decadevs = ['Chisom', 'Victor', 'Waheed', 'Darrot'];
 
-for (let i = 0; i <= 10; i += 2) {
-  console.log(i);
-}
+decadevs.map(decadev => {
+  return decadev;
+});
